@@ -1,0 +1,87 @@
+{
+  "@context": ["http://www.w3.org/ns/csvw",{"@language": "cs"}],
+  "url": "kzrklsouhrn.csv",
+  "tableSchema": { 
+    "columns": [{
+      "name": "KSTRANA",
+      "titles": "KSTRANA",
+      "dc:description": "Vylosované èíslo strany",
+      "required": false,
+      "datatype": "number"
+    },{
+      "name": "VSTRANA",
+      "titles": "VSTRANA",
+      "dc:description": "Interní kód strany ÈSÚ dle èíselníku volebních stran",
+      "required": false,
+      "datatype": "number"
+    },{
+      "name": "NAZEVCELK",
+      "titles": "NAZEVCELK",
+      "dc:description": "Název strany - 120 znakù",
+      "required": false,
+      "datatype": "string"
+    },{
+      "name": "NAZEV_STRK",
+      "titles": "NAZEV_STRK",
+      "dc:description": "Název strany - 50 znakù",
+      "required": false,
+      "datatype": "string"
+    },{
+      "name": "ZKRATKAK30",
+      "titles": "ZKRATKAK30",
+      "dc:description": "Název strany - 30 znakù",
+      "required": false,
+      "datatype": "string"
+    },{
+      "name": "ZKRATKAK8",
+      "titles": "ZKRATKAK8",
+      "dc:description": "Zkratka názvu na 15 znakù",
+      "required": false,
+      "datatype": "string"
+    },{
+      "name": "POCSTRVKO",
+      "titles": "POCSTRVKO",
+      "dc:description": "Poèet stran v koalici (1=samostatná strana)",
+      "required": false,
+      "datatype": "number"
+    },{
+      "name": "SLOZENI",
+      "titles": "SLOZENI",
+      "dc:description": "Interní kódy stran (VSTRANA), ze kterých se kandidátní listina skládá",
+      "required": false,
+      "datatype": "string"
+    },{
+      "name": "STAVREG",
+      "titles": "STAVREG",
+      "dc:description": "Stav registrace kandidátní listiny (strany) (0=zaregistrovaná, 1=odmítnutá)",
+      "required": false,
+      "datatype": "string"
+    },{
+      "name": "PLAT_STR",
+      "titles": "PLAT_STR",
+      "dc:description": "Stav platnosti strany (samostatné nebo v koalici) A=platná (vè. všech stran v koalici), N=strany s kódy uvedenými v položce SLOZNEPLAT byly zrušeny nebo jejich èinnost pozastavena (pùvodní položka PLATNOST)",
+      "required": false,
+      "datatype": "string"
+    },{
+      "name": "SLOZNEPLAT",
+      "titles": "SLOZNEPLAT",
+      "dc:description": "Interní kódy stran zrušených nebo s pozastavenou èinností (položka PLAT_STR=N)",
+      "required": true,
+      "datatype": "string"
+    },{
+      "name": "POCMANDCR",
+      "titles": "POCMANDCR",
+      "dc:description": "Poèet stranou získaných mandátù",
+      "required": true,
+      "datatype": "number"
+    },{
+      "name": "NAZEVPLNY",
+      "titles": "NAZEVPLNY",
+      "dc:description": "Úplný (nezkrácený) název strany",
+      "required": true,
+      "datatype": "string"
+    }
+    ],
+    "primaryKey": "KSTRANA"
+  }
+}
