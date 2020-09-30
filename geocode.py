@@ -34,6 +34,7 @@ def geocode_partaj(fname, kname):
                 cities[city] = data["features"][0]
 
             candidate = {
+                    "type":"feature",
                     "properties":{
                         "nr":nr,
                         "name": name,
@@ -69,7 +70,7 @@ def geocode_kraj(kdir, kname):
             os.path.join("data", "mapy", os.path.basename(kdir)+".geojson"),
             "w") as mapa_out:
         
-        json.dump(candidates, mapa_out)
+        json.dump(candidates, mapa_out, indent=4)
 
 
 
