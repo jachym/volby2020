@@ -34,7 +34,7 @@ def geocode_partaj(fname, kname):
                 cities[city] = data["features"][0]
 
             candidate = {
-                    "type":"feature",
+                    "type":"Feature",
                     "properties":{
                         "nr":nr,
                         "name": name,

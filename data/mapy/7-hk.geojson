@@ -2,7 +2,7 @@
     "type": "FeatureCollection",
     "features": [
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "1",
                 "name": "Bul\u00ed\u010dek Pavel Bc.",
@@ -21,7 +21,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "2",
                 "name": "Valenta Adam",
@@ -40,7 +40,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "3",
                 "name": "V\u00e1gner Dost\u00e1lov\u00e1 Martina",
@@ -59,7 +59,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "4",
                 "name": "Dohnal Ale\u0161",
@@ -78,7 +78,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "5",
                 "name": "\u0160t\u011bp\u00e1nek Arno\u0161t Mgr. MBA",
@@ -97,7 +97,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "6",
                 "name": "Pol\u00e1\u010dek Petr Mgr.",
@@ -116,7 +116,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "7",
                 "name": "Patkov\u00e1 Jana Mgr.",
@@ -135,7 +135,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "8",
                 "name": "Hoder Jan",
@@ -154,7 +154,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "9",
                 "name": "Dvorsk\u00fd Jaroslav Mgr.",
@@ -173,7 +173,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "10",
                 "name": "\u010calovka Ond\u0159ej Mgr.",
@@ -192,7 +192,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "11",
                 "name": "Ko\u0159\u00ednek Du\u0161an Ing. Ph.D.",
@@ -211,7 +211,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "12",
                 "name": "Unger Tom\u00e1\u0161",
@@ -230,7 +230,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "13",
                 "name": "Plch Du\u0161an",
@@ -249,7 +249,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "14",
                 "name": "\u010cepelka Michal MgA. DiS.",
@@ -268,7 +268,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "15",
                 "name": "\u0160tipl Stanislav Ing.",
@@ -287,7 +287,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "16",
                 "name": "Zeman Jan",
@@ -306,7 +306,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "17",
                 "name": "Eichler Tom\u00e1\u0161 Mgr.",
@@ -325,7 +325,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "18",
                 "name": "Ungerov\u00e1 Anna MVDr.",
@@ -344,7 +344,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "19",
                 "name": "H\u016flkov\u00e1 Kate\u0159ina Bc.",
@@ -363,7 +363,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "20",
                 "name": "\u0160pa\u010dek Lubom\u00edr",
@@ -382,7 +382,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "21",
                 "name": "Vacek Pavel doc. PhDr. Ph.D.",
@@ -401,7 +401,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "22",
                 "name": "Jeni\u0161ta Petr",
@@ -420,7 +420,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "23",
                 "name": "Hlad\u00edkov\u00e1 Barbora Mgr. Bc.",
@@ -439,7 +439,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "24",
                 "name": "Prouza Ji\u0159\u00ed Mgr.",
@@ -458,7 +458,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "25",
                 "name": "Petera Viktor Ing.",
@@ -477,7 +477,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "26",
                 "name": "Kubica Kamil",
@@ -496,7 +496,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "27",
                 "name": "Ficenec Karel",
@@ -515,7 +515,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "28",
                 "name": "Kr\u00e1lov\u00e1 V\u011bra",
@@ -534,7 +534,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "29",
                 "name": "Hanu\u0161ov\u00e1 Mark\u00e9ta DiS.",
@@ -553,7 +553,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "30",
                 "name": "Svoboda \u0160t\u011bp\u00e1n",
@@ -572,7 +572,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "31",
                 "name": "Pasty\u0159\u00edk Ji\u0159\u00ed Ing.",
@@ -591,7 +591,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "32",
                 "name": "Holler Jakub",
@@ -610,7 +610,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "33",
                 "name": "Rotter Michal",
@@ -629,7 +629,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "34",
                 "name": "Va\u0161\u00e1k Vojt\u011bch Ing.",
@@ -648,7 +648,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "35",
                 "name": "Pfeifer David Bc.",
@@ -667,7 +667,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "36",
                 "name": "Skoupilov\u00e1 Veronika Bc.",
@@ -686,7 +686,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "37",
                 "name": "D\u011bdek Michal Mgr.",
@@ -705,7 +705,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "38",
                 "name": "Chadim Tom\u00e1\u0161 Bc.",
@@ -724,7 +724,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "39",
                 "name": "Blahu\u0161ov\u00e1 Veronika",
@@ -743,7 +743,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "40",
                 "name": "Khol Rudolf Mgr.",
@@ -762,7 +762,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "41",
                 "name": "Mach\u00e1\u010dkov\u00e1 Lucie",
@@ -781,7 +781,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "42",
                 "name": "Vr\u00e1na Jan",
@@ -800,7 +800,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "43",
                 "name": "Fr\u00fd\u017eelka Luk\u00e1\u0161",
@@ -819,7 +819,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "44",
                 "name": "Mach\u00e1\u010dek Luk\u00e1\u0161 Bc.",
@@ -838,7 +838,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "45",
                 "name": "\u0160anda V\u00edt DiS.",
@@ -857,7 +857,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "46",
                 "name": "Valentov\u00e1 Alena",
@@ -876,7 +876,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "47",
                 "name": "Mikul\u00e1\u0161 Pavel",
@@ -895,7 +895,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "48",
                 "name": "Pernica Tom\u00e1\u0161",
@@ -914,7 +914,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "49",
                 "name": "\u010capek Karel Mgr.",
@@ -933,7 +933,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "50",
                 "name": "Mo\u017enarov\u00e1 Lucie",
@@ -952,7 +952,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "1",
                 "name": "Ondr\u00e1\u010dek Zden\u011bk JUDr. PhDr. Ph.D.",
@@ -971,7 +971,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "2",
                 "name": "Zakou\u0159ilov\u00e1 Petra Bc.",
@@ -990,7 +990,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "3",
                 "name": "Ort V\u00e1clav JUDr.",
@@ -1009,7 +1009,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "4",
                 "name": "\u0160ormov\u00e1 T\u00e1\u0148a Mgr.",
@@ -1028,7 +1028,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "5",
                 "name": "Markov\u00e1 So\u0148a Mgr.",
@@ -1047,7 +1047,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "6",
                 "name": "\u0160t\u011bp\u00e1n Lubom\u00edr Ing.",
@@ -1066,7 +1066,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "7",
                 "name": "Luk\u00e1\u0161ek Josef PaedDr.",
@@ -1085,7 +1085,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "8",
                 "name": "Kov\u00e1\u010dikov\u00e1 Marcela",
@@ -1104,7 +1104,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "9",
                 "name": "Manych Jaroslav",
@@ -1123,7 +1123,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "10",
                 "name": "\u0158ezn\u00ed\u010dkov\u00e1 Iva Mgr.",
@@ -1142,7 +1142,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "11",
                 "name": "Tyl\u0161 Josef",
@@ -1161,7 +1161,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "12",
                 "name": "Radocha Josef Mgr.",
@@ -1180,7 +1180,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "13",
                 "name": "Machula Ji\u0159\u00ed",
@@ -1199,7 +1199,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "14",
                 "name": "Falta Petr",
@@ -1218,7 +1218,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "15",
                 "name": "Du\u0161ek Josef",
@@ -1237,7 +1237,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "16",
                 "name": "Fejfar Petr",
@@ -1256,7 +1256,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "17",
                 "name": "Div\u00ed\u0161ek Jaroslav",
@@ -1275,7 +1275,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "18",
                 "name": "Vejnar Hynek",
@@ -1294,7 +1294,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "19",
                 "name": "Fialov\u00e1 Lenka DiS.",
@@ -1313,7 +1313,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "20",
                 "name": "Vrba Jaroslav",
@@ -1332,7 +1332,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "21",
                 "name": "Kopysova Lenka",
@@ -1351,7 +1351,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "22",
                 "name": "Jane\u010dek Jan",
@@ -1370,7 +1370,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "23",
                 "name": "Kra\u010dmar Libor",
@@ -1389,7 +1389,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "24",
                 "name": "Fry\u010dka Radim",
@@ -1408,7 +1408,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "25",
                 "name": "R\u00f6sler Thomas",
@@ -1427,7 +1427,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "26",
                 "name": "Berger Vladim\u00edr",
@@ -1446,7 +1446,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "27",
                 "name": "Koudelka Zden\u011bk",
@@ -1465,7 +1465,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "28",
                 "name": "Chrtek Pavel V\u00e1clav",
@@ -1484,7 +1484,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "29",
                 "name": "Forche Petr",
@@ -1503,7 +1503,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "30",
                 "name": "Zv\u00e1ra Ji\u0159\u00ed",
@@ -1522,7 +1522,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "31",
                 "name": "Moty\u010dka Vladislav",
@@ -1541,7 +1541,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "32",
                 "name": "Cee Ji\u0159\u00ed",
@@ -1560,7 +1560,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "33",
                 "name": "K\u0171rthy Michal",
@@ -1579,7 +1579,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "34",
                 "name": "Ku\u010derov\u00e1 V\u011bra Ing.",
@@ -1598,7 +1598,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "35",
                 "name": "\u017do\u010dek Zden\u011bk",
@@ -1617,7 +1617,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "36",
                 "name": "\u010capek Daniel",
@@ -1636,7 +1636,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "37",
                 "name": "Ros\u016flkov\u00e1 Lenka",
@@ -1655,7 +1655,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "38",
                 "name": "\u0160matol\u00e1n V\u00e1clav",
@@ -1674,7 +1674,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "39",
                 "name": "Markov\u00e1 Jitka",
@@ -1693,7 +1693,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "40",
                 "name": "\u0160pi\u010d\u00e1k Jaroslav Ing.",
@@ -1712,7 +1712,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "41",
                 "name": "Svoboda Filip",
@@ -1731,7 +1731,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "42",
                 "name": "Kalivoda Miroslav",
@@ -1750,7 +1750,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "43",
                 "name": "Mach\u00e1\u010dek Miroslav",
@@ -1769,7 +1769,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "44",
                 "name": "Koloc Franti\u0161ek JUDr.",
@@ -1788,7 +1788,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "45",
                 "name": "Winzberger Ladislav DiS.",
@@ -1807,7 +1807,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "46",
                 "name": "Bubnov\u00e1 Blanka",
@@ -1826,7 +1826,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "47",
                 "name": "Va\u0148ura Jan",
@@ -1845,7 +1845,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "48",
                 "name": "\u017do\u010dek Ji\u0159\u00ed",
@@ -1864,7 +1864,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "1",
                 "name": "\u0160t\u011bp\u00e1n Ji\u0159\u00ed PhDr. Ph.D.",
@@ -1883,7 +1883,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "2",
                 "name": "Hanousek Martin Mgr.",
@@ -1902,7 +1902,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "3",
                 "name": "He\u010dko Pavel Bc.",
@@ -1921,7 +1921,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "4",
                 "name": "Richterov\u00e1 Karin Bc.",
@@ -1940,7 +1940,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "5",
                 "name": "Mas\u00e1kov\u00e1 Hana Ing. MBA",
@@ -1959,7 +1959,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "6",
                 "name": "Sobotka Petr Mgr.",
@@ -1978,7 +1978,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "7",
                 "name": "Rudolfsk\u00fd Stanislav",
@@ -1997,7 +1997,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "8",
                 "name": "Kulichov\u00e1 Barbora Ing. DiS.",
@@ -2016,7 +2016,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "9",
                 "name": "Mencl Franti\u0161ek brig. gen. Ing.",
@@ -2035,7 +2035,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "10",
                 "name": "M\u00e1lek \u0160t\u011bp\u00e1n akad. soch. Mgr.",
@@ -2054,7 +2054,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "11",
                 "name": "Sixta Miroslav",
@@ -2073,7 +2073,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "12",
                 "name": "Hlad\u00edkov\u00e1 Sofia Mgr.",
@@ -2092,7 +2092,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "13",
                 "name": "\u010ctvrte\u010dka Jan Ing.",
@@ -2111,7 +2111,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "14",
                 "name": "Z\u00e1ruba Adam Ing. Ph.D.",
@@ -2130,7 +2130,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "15",
                 "name": "\u0160ubr Pavel Ing.",
@@ -2149,7 +2149,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "16",
                 "name": "\u0160ichov\u00e1 \u0160t\u011bp\u00e1nka Mgr.",
@@ -2168,7 +2168,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "17",
                 "name": "N\u00fd\u010d Marek Mgr.",
@@ -2187,7 +2187,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "18",
                 "name": "\u010c\u00edp David",
@@ -2206,7 +2206,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "19",
                 "name": "Hudousek Petr Bc.",
@@ -2225,7 +2225,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "20",
                 "name": "Kl\u00edmov\u00e1 So\u0148a Mgr.",
@@ -2244,7 +2244,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "21",
                 "name": "Va\u0148kov\u00e1 Edita Mgr.",
@@ -2263,7 +2263,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "22",
                 "name": "Zvon\u00ed\u010dek Leo\u0161 Bc.",
@@ -2282,7 +2282,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "23",
                 "name": "Ors\u00e1k Ji\u0159\u00ed",
@@ -2301,7 +2301,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "24",
                 "name": "\u0160nircov\u00e1 Ivana Ing.",
@@ -2320,7 +2320,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "25",
                 "name": "Birke Jan",
@@ -2339,7 +2339,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "26",
                 "name": "Kr\u00e1l\u00ed\u010dek Ivo RNDr. PhDr. Ph.D.",
@@ -2358,7 +2358,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "27",
                 "name": "H\u00e1sek Roman Mgr. Bc. Ph.D.",
@@ -2377,7 +2377,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "28",
                 "name": "Janigov\u00e1 Irena Mgr.",
@@ -2396,7 +2396,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "29",
                 "name": "Magnusek Tom\u00e1\u0161 Bc.",
@@ -2415,7 +2415,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "30",
                 "name": "Zaj\u00edc Ji\u0159\u00ed MUDr.",
@@ -2434,7 +2434,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "31",
                 "name": "\u0160krabalov\u00e1 \u0160\u00e1rka",
@@ -2453,7 +2453,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "32",
                 "name": "Steinerov\u00e1 Eva",
@@ -2472,7 +2472,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "33",
                 "name": "Franc Ji\u0159\u00ed Ing.",
@@ -2491,7 +2491,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "34",
                 "name": "Sedl\u00e1\u010dek Pavel Bc.",
@@ -2510,7 +2510,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "35",
                 "name": "Jakoubek Karel MUDr.",
@@ -2529,7 +2529,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "36",
                 "name": "P\u00fdcha Filip",
@@ -2548,7 +2548,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "37",
                 "name": "Jungwirthov\u00e1 Zuzana Ing.",
@@ -2567,7 +2567,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "38",
                 "name": "\u0160pilka Radim Mgr. Ph.D.",
@@ -2586,7 +2586,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "39",
                 "name": "Netolick\u00e1 Zuzana",
@@ -2605,7 +2605,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "40",
                 "name": "Kubrtov\u00e1 Martina",
@@ -2624,7 +2624,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "41",
                 "name": "P\u0159\u00edhoda Ren\u00e9 Mgr.",
@@ -2643,7 +2643,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "42",
                 "name": "Kulich Ji\u0159\u00ed RNDr.",
@@ -2662,7 +2662,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "43",
                 "name": "Kraus Ivan",
@@ -2681,7 +2681,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "44",
                 "name": "Strej\u010dkov\u00e1 Simona Ing.",
@@ -2700,7 +2700,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "45",
                 "name": "\u0160ediv\u00fd Jaroslav PaedDr.",
@@ -2719,7 +2719,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "46",
                 "name": "\u0160imerda Jakub",
@@ -2738,7 +2738,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "47",
                 "name": "Jane\u010dek Vil\u00e9m",
@@ -2757,7 +2757,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "48",
                 "name": "Hrone\u0161ov\u00e1 Lenka Bc.",
@@ -2776,7 +2776,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "49",
                 "name": "Sedl\u00e1\u010dek Radom\u00edr",
@@ -2795,7 +2795,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "50",
                 "name": "Hrudka Petr Bc.",
@@ -2814,7 +2814,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "1",
                 "name": "D\u011bde\u010dek Jarom\u00edr Ing.",
@@ -2833,7 +2833,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "2",
                 "name": "Hantschov\u00e1 Ivana MVDr. Dott.ssa",
@@ -2852,7 +2852,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "3",
                 "name": "Koleta Petr",
@@ -2871,7 +2871,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "4",
                 "name": "Praus Zden\u011bk Ing.",
@@ -2890,7 +2890,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "5",
                 "name": "K\u0159\u00ed\u017e Jan Ing.",
@@ -2909,7 +2909,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "6",
                 "name": "\u0160tayrov\u00e1 Monika Ing.",
@@ -2928,7 +2928,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "7",
                 "name": "Kricnarov\u00e1 Darina MBA",
@@ -2947,7 +2947,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "8",
                 "name": "Berkovcov\u00e1 Jana Mgr.",
@@ -2966,7 +2966,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "9",
                 "name": "Jarol\u00edm Jan Ing.",
@@ -2985,7 +2985,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "10",
                 "name": "Kodydek Miroslav",
@@ -3004,7 +3004,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "11",
                 "name": "Dost\u00e1lov\u00e1 Kl\u00e1ra Ing.",
@@ -3023,7 +3023,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "12",
                 "name": "\u0160andov\u00e1 Jana DiS.",
@@ -3042,7 +3042,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "13",
                 "name": "\u010cih\u00e1\u010dkov\u00e1 Blanka",
@@ -3061,7 +3061,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "14",
                 "name": "B\u00e1rta Franti\u0161ek RNDr.",
@@ -3080,7 +3080,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "15",
                 "name": "Helbich Jan Ing.",
@@ -3099,7 +3099,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "16",
                 "name": "Tachas Roman",
@@ -3118,7 +3118,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "17",
                 "name": "Prokop Ji\u0159\u00ed",
@@ -3137,7 +3137,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "18",
                 "name": "\u0160r\u016ftek Ond\u0159ej",
@@ -3156,7 +3156,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "19",
                 "name": "Friedlov\u00e1 Libu\u0161e Mgr.",
@@ -3175,7 +3175,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "20",
                 "name": "Kosinka Miroslav",
@@ -3194,7 +3194,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "21",
                 "name": "Pourov\u00e1 V\u011bra JUDr.",
@@ -3213,7 +3213,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "22",
                 "name": "Bor\u016fvka Jan Bc.",
@@ -3232,7 +3232,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "23",
                 "name": "\u0160eda Vlastimil Ing.",
@@ -3251,7 +3251,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "24",
                 "name": "Mal\u00fd Jan JUDr.",
@@ -3270,7 +3270,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "25",
                 "name": "Zikl Jan Ing.",
@@ -3289,7 +3289,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "26",
                 "name": "Kav\u00e1lek Josef",
@@ -3308,7 +3308,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "27",
                 "name": "Kos Ji\u0159\u00ed",
@@ -3327,7 +3327,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "28",
                 "name": "Franc Jind\u0159ich",
@@ -3346,7 +3346,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "29",
                 "name": "Veyr Karel",
@@ -3365,7 +3365,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "30",
                 "name": "Zima Jan",
@@ -3384,7 +3384,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "31",
                 "name": "Marek Pavel",
@@ -3403,7 +3403,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "32",
                 "name": "Macha\u010dov\u00e1 Hana Bc. MSc.",
@@ -3422,7 +3422,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "33",
                 "name": "Ba\u0161ov\u00e1 Petra",
@@ -3441,7 +3441,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "34",
                 "name": "Stillerov\u00e1 Alena Mgr.",
@@ -3460,7 +3460,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "35",
                 "name": "Ka\u010der \u0160t\u011bp\u00e1n",
@@ -3479,7 +3479,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "36",
                 "name": "Kobiela Petr",
@@ -3498,7 +3498,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "37",
                 "name": "Vajc\u00edk Anton\u00edn MUDr.",
@@ -3517,7 +3517,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "38",
                 "name": "Gazd\u00edk Zden\u011bk",
@@ -3536,7 +3536,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "39",
                 "name": "Kube\u0161ov\u00e1 Martina",
@@ -3555,7 +3555,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "40",
                 "name": "Lukavec Josef MUDr.",
@@ -3574,7 +3574,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "41",
                 "name": "Gluz Vladim\u00edr",
@@ -3593,7 +3593,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "42",
                 "name": "Ma\u0161ek Ji\u0159\u00ed MUDr.",
@@ -3612,7 +3612,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "43",
                 "name": "Sadovsk\u00fd Petr",
@@ -3631,7 +3631,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "44",
                 "name": "Plz\u00e1k Pavel MUDr.",
@@ -3650,7 +3650,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "45",
                 "name": "Svoboda V\u00edt MUDr.",
@@ -3669,7 +3669,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "46",
                 "name": "Tipelt Robert",
@@ -3688,7 +3688,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "47",
                 "name": "Adamcov\u00e1 Jessica Bc.",
@@ -3707,7 +3707,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "48",
                 "name": "Melicharov\u00e1 Jana Mgr.",
@@ -3726,7 +3726,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "49",
                 "name": "S\u00fakup Michal Ing.",
@@ -3745,7 +3745,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "1",
                 "name": "Grund Anton\u00edn",
@@ -3764,7 +3764,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "2",
                 "name": "Her\u0161\u00e1lek Franti\u0161ek",
@@ -3783,7 +3783,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "1",
                 "name": "Matou\u0161ek Ji\u0159\u00ed Mgr. MPA",
@@ -3802,7 +3802,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "2",
                 "name": "Klapal Josef Ing.",
@@ -3821,7 +3821,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "3",
                 "name": "Hojgr Ji\u0159\u00ed Ing.",
@@ -3840,7 +3840,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "4",
                 "name": "P\u00e1tek Roman Ing.",
@@ -3859,7 +3859,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "5",
                 "name": "Br\u00e1bn\u00edk Petr",
@@ -3878,7 +3878,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "6",
                 "name": "Kon\u00ed\u0159 Richard Mgr.",
@@ -3897,7 +3897,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "7",
                 "name": "Cvejn Zden\u011bk Mgr. Ing.",
@@ -3916,7 +3916,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "8",
                 "name": "Pol\u00e1k Petr",
@@ -3935,7 +3935,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "9",
                 "name": "Moudr\u00e1 Hana Mgr.",
@@ -3954,7 +3954,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "10",
                 "name": "\u0160ebel\u00edk Jan RNDr.",
@@ -3973,7 +3973,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "11",
                 "name": "Futter Rudolf",
@@ -3992,7 +3992,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "12",
                 "name": "Navr\u00e1til Josef",
@@ -4011,7 +4011,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "13",
                 "name": "Kub\u00ed\u010dek David Mgr. et Mgr.",
@@ -4030,7 +4030,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "14",
                 "name": "Z\u00e1lesk\u00fd Vladim\u00edr MUDr. MBA",
@@ -4049,7 +4049,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "15",
                 "name": "Hojgrov\u00e1 Zuzana MUDr.",
@@ -4068,7 +4068,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "16",
                 "name": "Hor\u00e1k Old\u0159ich RNDr. Ing. Ph.D.",
@@ -4087,7 +4087,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "17",
                 "name": "Hlad\u00edk Petr",
@@ -4106,7 +4106,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "18",
                 "name": "Klejma Tom\u00e1\u0161 MUDr.",
@@ -4125,7 +4125,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "19",
                 "name": "Vl\u010dek Pavel Ing.",
@@ -4144,7 +4144,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "20",
                 "name": "Perner Jan Bc.",
@@ -4163,7 +4163,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "21",
                 "name": "Dohnal Pavel",
@@ -4182,7 +4182,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "22",
                 "name": "Krej\u010d\u00ed Michal Ing.",
@@ -4201,7 +4201,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "23",
                 "name": "Urban Zden\u011bk",
@@ -4220,7 +4220,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "24",
                 "name": "Hru\u0161ka Jaroslav",
@@ -4239,7 +4239,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "25",
                 "name": "Jane\u010dka Ale\u0161",
@@ -4258,7 +4258,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "26",
                 "name": "Lejsek Vladim\u00edr Mgr.",
@@ -4277,7 +4277,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "27",
                 "name": "Proke\u0161 Stanislav",
@@ -4296,7 +4296,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "28",
                 "name": "Cvetanova Iva Ing.",
@@ -4315,7 +4315,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "29",
                 "name": "Hofman Miroslav",
@@ -4334,7 +4334,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "30",
                 "name": "Ad\u00e1mek Jan Ing.",
@@ -4353,7 +4353,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "31",
                 "name": "\u0160r\u00e1mek Petr Ing.",
@@ -4372,7 +4372,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "32",
                 "name": "Mitrovi\u0107 Denis JUDr.",
@@ -4391,7 +4391,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "33",
                 "name": "Mat\u011bjka V\u00e1clav",
@@ -4410,7 +4410,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "34",
                 "name": "Mal\u00fd Old\u0159ich",
@@ -4429,7 +4429,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "35",
                 "name": "Karl\u00edk Michal Ing.",
@@ -4448,7 +4448,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "36",
                 "name": "Jake\u0161 Petr Ing.",
@@ -4467,7 +4467,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "37",
                 "name": "Myslivec Bronislav",
@@ -4486,7 +4486,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "38",
                 "name": "Kon\u00ed\u0159ov\u00e1 Jana Mgr.",
@@ -4505,7 +4505,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "39",
                 "name": "P\u00edrkov\u00e1 Hana",
@@ -4524,7 +4524,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "40",
                 "name": "Petr Luk\u00e1\u0161 RNDr. Ing.",
@@ -4543,7 +4543,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "41",
                 "name": "Pohl Zden\u011bk",
@@ -4562,7 +4562,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "42",
                 "name": "Do\u010dkal Martin",
@@ -4581,7 +4581,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "43",
                 "name": "Matou\u0161ek Petr",
@@ -4600,7 +4600,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "44",
                 "name": "\u0160tysov\u00e1 \u0160\u00e1rka Ing.",
@@ -4619,7 +4619,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "45",
                 "name": "Havrda Miroslav MUDr.",
@@ -4638,7 +4638,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "46",
                 "name": "Ku\u010dera Mat\u011bj",
@@ -4657,7 +4657,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "47",
                 "name": "Veinlichov\u00e1 Jana MBA",
@@ -4676,7 +4676,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "48",
                 "name": "Fl\u00e9gr Michal",
@@ -4695,7 +4695,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "49",
                 "name": "Slez\u00e1k Stanislav",
@@ -4714,7 +4714,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "50",
                 "name": "Novotn\u00fd Vladim\u00edr Bc. DiS.",
@@ -4733,7 +4733,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "1",
                 "name": "Cabicar Ale\u0161 Ing.",
@@ -4752,7 +4752,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "2",
                 "name": "Springerov\u00e1 Pavl\u00edna Mgr. et Mgr. Ph.D.",
@@ -4771,7 +4771,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "3",
                 "name": "Koldinsk\u00fd Libor",
@@ -4790,7 +4790,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "4",
                 "name": "Petr\u00e1k Rostislav Ing.",
@@ -4809,7 +4809,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "5",
                 "name": "Balcar Jan Mgr. Ph.D.",
@@ -4828,7 +4828,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "6",
                 "name": "Fink Zden\u011bk MUDr.",
@@ -4847,7 +4847,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "7",
                 "name": "Havel Mat\u011bj Ond\u0159ej Mgr. Ph.D.",
@@ -4866,7 +4866,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "8",
                 "name": "\u0160id\u00e1kov\u00e1 Silvie MUDr.",
@@ -4885,7 +4885,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "9",
                 "name": "Sommer Milan Ing.",
@@ -4904,7 +4904,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "10",
                 "name": "Slez\u00e1k Kamil",
@@ -4923,7 +4923,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "11",
                 "name": "Grulich Jan Mgr.",
@@ -4942,7 +4942,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "12",
                 "name": "Hol\u00e1sek Jan JUDr. LL.M.",
@@ -4961,7 +4961,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "13",
                 "name": "Tomkov\u00e1 Veronika Ing.",
@@ -4980,7 +4980,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "14",
                 "name": "Hron Petr",
@@ -4999,7 +4999,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "15",
                 "name": "Perthen Erv\u00edn JUDr. MBA",
@@ -5018,7 +5018,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "16",
                 "name": "\u0160vorc Zden\u011bk Ing.",
@@ -5037,7 +5037,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "17",
                 "name": "Jen\u010dek Lubor Ing.",
@@ -5056,7 +5056,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "18",
                 "name": "Pour Martin Ing. arch.",
@@ -5075,7 +5075,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "19",
                 "name": "Tepl\u00fd Luk\u00e1\u0161",
@@ -5094,7 +5094,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "20",
                 "name": "Svato\u0161ov\u00e1 V\u011bra RNDr.",
@@ -5113,7 +5113,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "21",
                 "name": "Ko\u0159\u00ednek Martin Ing.",
@@ -5132,7 +5132,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "22",
                 "name": "Kotrb\u00e1\u010dek V\u00edt",
@@ -5151,7 +5151,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "23",
                 "name": "Tich\u00fd Milo\u0161 Bc.",
@@ -5170,7 +5170,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "24",
                 "name": "Str\u00e1nsk\u00fd Ji\u0159\u00ed Ing.",
@@ -5189,7 +5189,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "25",
                 "name": "Veselka Petr Bc.",
@@ -5208,7 +5208,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "26",
                 "name": "Stan\u011bk Martin Bc. DiS.",
@@ -5227,7 +5227,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "27",
                 "name": "Bittner Old\u0159ich Ing. arch.",
@@ -5246,7 +5246,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "28",
                 "name": "Dohn\u00e1lek Milo\u0161 Mgr. Ing. LL.M.",
@@ -5265,7 +5265,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "29",
                 "name": "Kalensk\u00fd Jan Bc.",
@@ -5284,7 +5284,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "30",
                 "name": "\u0158\u00e1dek Luk\u00e1\u0161 Ing.",
@@ -5303,7 +5303,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "31",
                 "name": "Chlubna Miroslav Bc.",
@@ -5322,7 +5322,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "32",
                 "name": "\u0160indel\u00e1\u0159 Petr Mgr.",
@@ -5341,7 +5341,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "33",
                 "name": "Toma\u0161\u00edk \u0160t\u011bp\u00e1n",
@@ -5360,7 +5360,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "34",
                 "name": "Stan\u011bk Franti\u0161ek DiS.",
@@ -5379,7 +5379,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "35",
                 "name": "\u0160ulc Vojt\u011bch",
@@ -5398,7 +5398,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "36",
                 "name": "Von\u00e1skov\u00e1 V\u011bra",
@@ -5417,7 +5417,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "37",
                 "name": "V\u00ed\u0161kov\u00e1 Eva",
@@ -5436,7 +5436,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "38",
                 "name": "Knapovsk\u00e1 Miroslava PaedDr.",
@@ -5455,7 +5455,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "39",
                 "name": "\u0160vamberk Jaroslav JUDr. Ing.",
@@ -5474,7 +5474,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "40",
                 "name": "Jir\u00e1sko Jaroslav Ing. MBA",
@@ -5493,7 +5493,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "41",
                 "name": "Harbichov\u00e1 Marcela DiS.",
@@ -5512,7 +5512,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "42",
                 "name": "Lojan Petr PhDr. Ph.D., MBA",
@@ -5531,7 +5531,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "43",
                 "name": "Sofka Jakub Mgr.",
@@ -5550,7 +5550,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "44",
                 "name": "B\u00fary Tom\u00e1\u0161 PhDr.",
@@ -5569,7 +5569,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "45",
                 "name": "\u010cerven\u00fd Josef",
@@ -5588,7 +5588,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "46",
                 "name": "B\u011bl\u00edk Filip",
@@ -5607,7 +5607,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "47",
                 "name": "Kudrnovsk\u00fd Emil Mgr. Ph.D.",
@@ -5626,7 +5626,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "48",
                 "name": "Pirner Ji\u0159\u00ed Ing.",
@@ -5645,7 +5645,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "49",
                 "name": "Junek Vladim\u00edr",
@@ -5664,7 +5664,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "50",
                 "name": "Pale\u010dek Martin doc. Mgr. Ph.D.",
@@ -5683,7 +5683,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "1",
                 "name": "\u010cerv\u00ed\u010dek Martin brig. gen. v. v. Mgr.",
@@ -5702,7 +5702,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "2",
                 "name": "Berdychov\u00e1 Martina Mgr.",
@@ -5721,7 +5721,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "3",
                 "name": "Cogan Rudolf JUDr. Ing. Ph.D.",
@@ -5740,7 +5740,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "4",
                 "name": "\u0158eho\u0159 V\u00e1clav Mgr.",
@@ -5759,7 +5759,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "5",
                 "name": "Hor\u00e1\u010dek Josef",
@@ -5778,7 +5778,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "6",
                 "name": "Drejslov\u00e1 Jana Mgr.",
@@ -5797,7 +5797,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "7",
                 "name": "Krac\u00edkov\u00e1 Dana Ing.",
@@ -5816,7 +5816,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "8",
                 "name": "Adamec Ivan Mgr.",
@@ -5835,7 +5835,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "9",
                 "name": "Brandejs Milan",
@@ -5854,7 +5854,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "10",
                 "name": "Brykner Ladislav Ing.",
@@ -5873,7 +5873,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "11",
                 "name": "Maloch Ale\u0161 Ing.",
@@ -5892,7 +5892,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "12",
                 "name": "\u0160kop Ji\u0159\u00ed Mgr.",
@@ -5911,7 +5911,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "13",
                 "name": "Pot\u016f\u010dkov\u00e1 Lucie Mgr.",
@@ -5930,7 +5930,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "14",
                 "name": "Kas\u00edk Libor MgA.",
@@ -5949,7 +5949,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "15",
                 "name": "Rezkov\u00e1 Helena",
@@ -5968,7 +5968,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "16",
                 "name": "Louda Pavel Ing.",
@@ -5987,7 +5987,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "17",
                 "name": "Pechar Ji\u0159\u00ed",
@@ -6006,7 +6006,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "18",
                 "name": "Jankovsk\u00fd Pavel PaedDr.",
@@ -6025,7 +6025,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "19",
                 "name": "Balc\u00e1rek Radek",
@@ -6044,7 +6044,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "20",
                 "name": "K\u00e1\u0148a Pavel Mgr.",
@@ -6063,7 +6063,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "21",
                 "name": "Sobotka Jan Ing.",
@@ -6082,7 +6082,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "22",
                 "name": "Stanislav Anton\u00edn Mgr. Ph.D.",
@@ -6101,7 +6101,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "23",
                 "name": "Prouza Martin Ing.",
@@ -6120,7 +6120,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "24",
                 "name": "Luka\u0161t\u00edk Dominik",
@@ -6139,7 +6139,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "25",
                 "name": "Rejzl Jan Mgr.",
@@ -6158,7 +6158,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "26",
                 "name": "L\u017e\u00ed\u010da\u0159 Petr Ing.",
@@ -6177,7 +6177,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "27",
                 "name": "Svoboda Ale\u0161",
@@ -6196,7 +6196,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "28",
                 "name": "Kr\u00e1l Josef Ing.",
@@ -6215,7 +6215,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "29",
                 "name": "Dra\u0161nar Roman Mgr.",
@@ -6234,7 +6234,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "30",
                 "name": "Proch\u00e1zka Miroslav Ing.",
@@ -6253,7 +6253,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "31",
                 "name": "\u0160turma V\u00edt\u011bzslav Ing. MBA",
@@ -6272,7 +6272,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "32",
                 "name": "Mottl Lubo\u0161 Ing.",
@@ -6291,7 +6291,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "33",
                 "name": "\u0160t\u011brbov\u00e1 Hana",
@@ -6310,7 +6310,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "34",
                 "name": "Bohut\u00ednsk\u00e1 Dana",
@@ -6329,7 +6329,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "35",
                 "name": "Joska David Mgr.",
@@ -6348,7 +6348,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "36",
                 "name": "Posp\u00ed\u0161il Milan Bc.",
@@ -6367,7 +6367,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "37",
                 "name": "\u0160v\u00e1bl Miroslav MUDr.",
@@ -6386,7 +6386,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "38",
                 "name": "\u0160alda Josef Ing.",
@@ -6405,7 +6405,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "39",
                 "name": "Dvo\u0159\u00e1\u010dek Pavel Ing.",
@@ -6424,7 +6424,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "40",
                 "name": "K\u016fta Miloslav Mgr.",
@@ -6443,7 +6443,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "41",
                 "name": "\u0160najdr Libor",
@@ -6462,7 +6462,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "42",
                 "name": "\u0160kopov\u00e1 Petra Ing. MBA",
@@ -6481,7 +6481,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "43",
                 "name": "Bene\u0161ov\u00e1 Martina Bc.",
@@ -6500,7 +6500,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "44",
                 "name": "Martinov Petr MUDr.",
@@ -6519,7 +6519,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "45",
                 "name": "\u017d\u00e1rsk\u00fd Radim Mgr.",
@@ -6538,7 +6538,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "46",
                 "name": "\u017d\u010f\u00e1rek Milan Ing.",
@@ -6557,7 +6557,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "47",
                 "name": "Moravec Martin Mgr.",
@@ -6576,7 +6576,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "48",
                 "name": "Hu\u0148at Jaroslav",
@@ -6595,7 +6595,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "49",
                 "name": "Vlas\u00e1k Old\u0159ich Ing.",
@@ -6614,7 +6614,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "50",
                 "name": "Li\u0161ka Ji\u0159\u00ed MVDr.",
@@ -6633,7 +6633,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "1",
                 "name": "Do\u0161k\u00e1\u0159ov\u00e1 Dana",
@@ -6652,7 +6652,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "2",
                 "name": "Rumlov\u00e1 Janet Mgr.",
@@ -6671,7 +6671,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "3",
                 "name": "Rumlov\u00e1 R\u016f\u017eena",
@@ -6690,7 +6690,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "4",
                 "name": "Erlebach Du\u0161an",
@@ -6709,7 +6709,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "5",
                 "name": "Ka\u0161p\u00e1rkov\u00e1 Ivana",
@@ -6728,7 +6728,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "6",
                 "name": "\u010cern\u00e1 Irena",
@@ -6747,7 +6747,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "7",
                 "name": "Zlatn\u00edkov\u00e1 Mark\u00e9ta",
@@ -6766,7 +6766,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "8",
                 "name": "V\u00e1gnerov\u00e1 Zichov\u00e1 Andrea",
@@ -6785,7 +6785,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "9",
                 "name": "V\u00e1gner Du\u0161an",
@@ -6804,7 +6804,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "10",
                 "name": "\u0160inkmanov\u00e1 Eva",
@@ -6823,7 +6823,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "11",
                 "name": "Pe\u0161kov\u00e1 Kate\u0159ina",
@@ -6842,7 +6842,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "12",
                 "name": "\u0160afr\u00e1nkov\u00e1 Veronika",
@@ -6861,7 +6861,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "13",
                 "name": "Babou\u010dkov\u00e1 Ren\u00e1ta",
@@ -6880,7 +6880,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "14",
                 "name": "Langhansov\u00e1 Radka",
@@ -6899,7 +6899,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "15",
                 "name": "Mitl\u00f6hnerov\u00e1 Jana",
@@ -6918,7 +6918,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "1",
                 "name": "B\u011blobr\u00e1dek Pavel MVDr. Ph.D., MPA",
@@ -6937,7 +6937,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "2",
                 "name": "Mach\u016f Martin Ing.",
@@ -6956,7 +6956,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "3",
                 "name": "P\u016f\u017ea Miroslav Mgr. Ph.D.",
@@ -6975,7 +6975,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "4",
                 "name": "Ham\u00e1\u010dek Petr Mgr.",
@@ -6994,7 +6994,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "5",
                 "name": "\u010c\u00e1p Jan prof. MUDr. CSc.",
@@ -7013,7 +7013,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "6",
                 "name": "V\u00e1vrov\u00e1 Dita JUDr.",
@@ -7032,7 +7032,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "7",
                 "name": "Uchytil Miroslav Ing.",
@@ -7051,7 +7051,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "8",
                 "name": "Ludv\u00edk V\u00e1clav Ing.",
@@ -7070,7 +7070,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "9",
                 "name": "Voj\u00e1\u010dek Ji\u0159\u00ed Mgr.",
@@ -7089,7 +7089,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "10",
                 "name": "Maclov\u00e1 Anna Ing.",
@@ -7108,7 +7108,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "11",
                 "name": "Regner Ji\u0159\u00ed",
@@ -7127,7 +7127,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "12",
                 "name": "Vesel\u00fd Ji\u0159\u00ed MUDr.",
@@ -7146,7 +7146,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "13",
                 "name": "\u010cepelkov\u00e1 Veronika PhDr.",
@@ -7165,7 +7165,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "14",
                 "name": "Petr\u00e1\u010dek Anton\u00edn MUDr.",
@@ -7184,7 +7184,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "15",
                 "name": "Kulh\u00e1nek Tom\u00e1\u0161 Ing. Bc. DiS.",
@@ -7203,7 +7203,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "16",
                 "name": "Sk\u0159\u00edteck\u00e1 Ivana Ing.",
@@ -7222,7 +7222,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "17",
                 "name": "Derner Michal Ing. MBA",
@@ -7241,7 +7241,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "18",
                 "name": "Hendrych Tom\u00e1\u0161 Mgr.",
@@ -7260,7 +7260,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "19",
                 "name": "Knapov\u00e1 Jana Mgr.",
@@ -7279,7 +7279,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "20",
                 "name": "Tojnar Ji\u0159\u00ed",
@@ -7298,7 +7298,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "21",
                 "name": "Falta Jan Ing. arch.",
@@ -7317,7 +7317,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "22",
                 "name": "Hor\u00e1kov\u00e1 Ester",
@@ -7336,7 +7336,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "23",
                 "name": "Tom\u00e1\u0161ek Ji\u0159\u00ed Mgr.",
@@ -7355,7 +7355,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "24",
                 "name": "Slez\u00e1kov\u00e1 Jitka Ing.",
@@ -7374,7 +7374,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "25",
                 "name": "Krabcov\u00e1 Ivana Mgr.",
@@ -7393,7 +7393,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "26",
                 "name": "Havelka Rudolf Mgr. et Mgr. Ph.D.",
@@ -7412,7 +7412,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "27",
                 "name": "Kl\u00edma Adam",
@@ -7431,7 +7431,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "28",
                 "name": "Ji\u0159i\u010dka Jan Ing.",
@@ -7450,7 +7450,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "29",
                 "name": "Hor\u00e1k Petr",
@@ -7469,7 +7469,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "30",
                 "name": "Horn\u00ed\u010dek Jan Ing.",
@@ -7488,7 +7488,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "31",
                 "name": "\u0160im\u00e1\u010dkov\u00e1 Hana Mgr.",
@@ -7507,7 +7507,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "32",
                 "name": "Novotn\u00fd Ji\u0159\u00ed Bc.",
@@ -7526,7 +7526,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "33",
                 "name": "Hable Petr",
@@ -7545,7 +7545,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "34",
                 "name": "Klik Stanislav Ing. Ph.D.",
@@ -7564,7 +7564,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "35",
                 "name": "Stra\u0161\u00edk Vojt\u011bch",
@@ -7583,7 +7583,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "36",
                 "name": "\u0158eh\u00e1k Lubo\u0161",
@@ -7602,7 +7602,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "37",
                 "name": "Mi\u0161o\u0148ov\u00e1 Ane\u017eka Mgr.",
@@ -7621,7 +7621,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "38",
                 "name": "Bitnar Jaroslav Ing.",
@@ -7640,7 +7640,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "39",
                 "name": "Ulrichov\u00e1 Monika Mgr. Ph.D.",
@@ -7659,7 +7659,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "40",
                 "name": "Hl\u00e1vko Josef",
@@ -7678,7 +7678,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "41",
                 "name": "Jav\u016frek Stanislav Ing.",
@@ -7697,7 +7697,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "42",
                 "name": "J\u00edna Ji\u0159\u00ed Mgr.",
@@ -7716,7 +7716,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "43",
                 "name": "Gregor Ji\u0159\u00ed PharmDr. Ph.D.",
@@ -7735,7 +7735,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "44",
                 "name": "Zdechovsk\u00fd Tom\u00e1\u0161 Mgr.",
@@ -7754,7 +7754,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "45",
                 "name": "\u0160pelda Marek Mgr. Ing. Ph.D.",
@@ -7773,7 +7773,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "46",
                 "name": "\u0160ilh\u00e1nkov\u00e1 Vladim\u00edra doc. Ing. arch. Ph.D.",
@@ -7792,7 +7792,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "47",
                 "name": "Derner V\u00e1clav RNDr.",
@@ -7811,7 +7811,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "48",
                 "name": "V\u0161ete\u010dka Ji\u0159\u00ed JUDr.",
@@ -7830,7 +7830,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "49",
                 "name": "Steiner Marek Ing.",
@@ -7849,7 +7849,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "50",
                 "name": "Janou\u0161ek Jan Ing.",
@@ -7868,7 +7868,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "1",
                 "name": "Makalou\u0161 V\u00e1clav Mgr.",
@@ -7887,7 +7887,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "2",
                 "name": "Hornig Petr",
@@ -7906,7 +7906,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "3",
                 "name": "Hrochov\u00e1 Magdal\u00e9na",
@@ -7925,7 +7925,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "4",
                 "name": "Seidel Petr Ing.",
@@ -7944,7 +7944,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "5",
                 "name": "Vojt\u00ed\u0161ek Radom\u00edr",
@@ -7963,7 +7963,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "6",
                 "name": "Ka\u0161ubov\u00e1 Lea Mgr.",
@@ -7982,7 +7982,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "7",
                 "name": "Pa\u017eout Lubo\u0161",
@@ -8001,7 +8001,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "8",
                 "name": "Sloupensk\u00e1 Kl\u00e1ra",
@@ -8020,7 +8020,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "9",
                 "name": "Voda Miroslav",
@@ -8039,7 +8039,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "10",
                 "name": "Peovsk\u00fd Robert",
@@ -8058,7 +8058,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "11",
                 "name": "Krej\u010d\u00ed Jan",
@@ -8077,7 +8077,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "12",
                 "name": "Schejbal Lubo\u0161",
@@ -8096,7 +8096,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "13",
                 "name": "Pokorn\u00e1 B\u00e1ra",
@@ -8115,7 +8115,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "14",
                 "name": "Muchov\u00e1 Dagmar",
@@ -8134,7 +8134,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "15",
                 "name": "Daj\u010d Tom\u00e1\u0161",
@@ -8153,7 +8153,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "16",
                 "name": "Pajkrt Stanislav",
@@ -8172,7 +8172,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "17",
                 "name": "Chaloupkov\u00e1 Denisa",
@@ -8191,7 +8191,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "18",
                 "name": "Filipov\u00e1 Alena",
@@ -8210,7 +8210,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "19",
                 "name": "Dra\u0161narov\u00e1 Pavla",
@@ -8229,7 +8229,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "20",
                 "name": "Ungr\u00e1d Ji\u0159\u00ed",
@@ -8248,7 +8248,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "21",
                 "name": "Kholov\u00e1 Simona DiS.",
@@ -8267,7 +8267,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "22",
                 "name": "Drap\u00e1k Pavel",
@@ -8286,7 +8286,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "23",
                 "name": "\u0160tefanidesov\u00e1 Renata",
@@ -8305,7 +8305,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "24",
                 "name": "V\u00e1\u0148ov\u00e1 V\u011bra",
@@ -8324,7 +8324,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "25",
                 "name": "Barc\u00edkov\u00e1 Eva",
@@ -8343,7 +8343,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "26",
                 "name": "Ot\u010den\u00e1\u0161 Miloslav",
@@ -8362,7 +8362,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "27",
                 "name": "\u0160tenclov\u00e1 Al\u017eb\u011bta",
@@ -8381,7 +8381,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "28",
                 "name": "Karlub\u00edkov\u00e1 Andrea",
@@ -8400,7 +8400,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "29",
                 "name": "\u0160acher Stanislava Tanja",
@@ -8419,7 +8419,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "30",
                 "name": "Rozhonov\u00e1 Kate\u0159ina",
@@ -8438,7 +8438,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "31",
                 "name": "Cerman Ladislav",
@@ -8457,7 +8457,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "32",
                 "name": "Ka\u0148kovsk\u00e1 Monika",
@@ -8476,7 +8476,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "33",
                 "name": "Schejbal Jan",
@@ -8495,7 +8495,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "34",
                 "name": "Foltinov\u00e1 Eva",
@@ -8514,7 +8514,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "35",
                 "name": "Dirr Kamil",
@@ -8533,7 +8533,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "36",
                 "name": "Bla\u0161kov\u00e1 Kristina",
@@ -8552,7 +8552,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "37",
                 "name": "Bla\u0161ko Milan",
@@ -8571,7 +8571,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "38",
                 "name": "Zaoralov\u00e1 Monika",
@@ -8590,7 +8590,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "39",
                 "name": "Samkov\u00e1 Stanislava",
@@ -8609,7 +8609,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "40",
                 "name": "Kar\u00e1skov\u00e1 Krist\u00fdna",
@@ -8628,7 +8628,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "41",
                 "name": "Melicharov\u00e1 Olga",
@@ -8647,7 +8647,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "42",
                 "name": "Seidelov\u00e1 Petra",
@@ -8666,7 +8666,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "43",
                 "name": "Ku\u0159inov\u00e1 Radka",
@@ -8685,7 +8685,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "44",
                 "name": "Streitov\u00e1 Jana",
@@ -8704,7 +8704,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "45",
                 "name": "Rieneslov\u00e1 Jana",
@@ -8723,7 +8723,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "46",
                 "name": "Holasov\u00e1 Ingeburg",
@@ -8742,7 +8742,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "47",
                 "name": "Plachetkov\u00e1 Iva",
@@ -8761,7 +8761,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "48",
                 "name": "Ku\u017eelka Milo\u0161",
@@ -8780,7 +8780,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "1",
                 "name": "Podal Zden\u011bk",
@@ -8799,7 +8799,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "2",
                 "name": "Pajgerov\u00e1 Andrea",
@@ -8818,7 +8818,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "3",
                 "name": "Pakandlov\u00e1 Mark\u00e9ta JUDr.",
@@ -8837,7 +8837,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "4",
                 "name": "Schubert Dickfeld Ivana",
@@ -8856,7 +8856,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "5",
                 "name": "Kotyzov\u00e1 Eva",
@@ -8875,7 +8875,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "6",
                 "name": "Lesensk\u00e1 Vladim\u00edra Ing.",
@@ -8894,7 +8894,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "7",
                 "name": "Janiga Ji\u0159\u00ed Ing.",
@@ -8913,7 +8913,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "8",
                 "name": "Zaj\u00edc Jaroslav Mgr.",
@@ -8932,7 +8932,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "9",
                 "name": "Abraham Roman Ing.",
@@ -8951,7 +8951,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "10",
                 "name": "Cvr\u010dek Radek MUDr.",
@@ -8970,7 +8970,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "11",
                 "name": "Slavka Michal",
@@ -8989,7 +8989,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "12",
                 "name": "Salay Ren\u00e9",
@@ -9008,7 +9008,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "13",
                 "name": "Moty\u010dka Ji\u0159\u00ed Ing.",
@@ -9027,7 +9027,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "14",
                 "name": "Marinica Dane\u0161 Mgr.",
@@ -9046,7 +9046,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "15",
                 "name": "Hor\u00e1k Petr",
@@ -9065,7 +9065,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "16",
                 "name": "Matou\u0161ov\u00e1 Jaroslava Bc.",
@@ -9084,7 +9084,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "17",
                 "name": "Pelc Norbert",
@@ -9103,7 +9103,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "18",
                 "name": "Grygarov\u00e1 Lenka",
@@ -9122,7 +9122,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "19",
                 "name": "Homolka Franti\u0161ek",
@@ -9141,7 +9141,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "20",
                 "name": "Drahusk\u00e1 Zografia",
@@ -9160,7 +9160,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "21",
                 "name": "\u010capek Jan",
@@ -9179,7 +9179,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "22",
                 "name": "Pisch Jind\u0159ich",
@@ -9198,7 +9198,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "23",
                 "name": "Barto\u0148 Ji\u0159\u00ed",
@@ -9217,7 +9217,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "24",
                 "name": "Prokop Radek",
@@ -9236,7 +9236,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "25",
                 "name": "S\u00e1lov\u00e1 Al\u017eb\u011bta Mgr.",
@@ -9255,7 +9255,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "26",
                 "name": "N\u011bmcov\u00e1 Irena Ing.",
@@ -9274,7 +9274,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "27",
                 "name": "Hre\u0148o Jan",
@@ -9293,7 +9293,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "28",
                 "name": "Hemrl\u00edk Ji\u0159\u00ed",
@@ -9312,7 +9312,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "29",
                 "name": "Vo\u0148ka Jaroslav",
@@ -9331,7 +9331,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "30",
                 "name": "N\u00fdvlt Pavel",
@@ -9350,7 +9350,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "31",
                 "name": "\u0160itavanc Al\u017eb\u011bta",
@@ -9369,7 +9369,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "32",
                 "name": "Rychtera Filip",
@@ -9388,7 +9388,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "33",
                 "name": "V\u00edtek Jan",
@@ -9407,7 +9407,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "34",
                 "name": "Baselov\u00e1 Monika",
@@ -9426,7 +9426,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "35",
                 "name": "Fialov\u00e1 Va\u0161atov\u00e1 Pavla",
@@ -9445,7 +9445,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "36",
                 "name": "Tu\u010dek Tom\u00e1\u0161",
@@ -9464,7 +9464,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "37",
                 "name": "Riedl Tom\u00e1\u0161",
@@ -9483,7 +9483,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "38",
                 "name": "Nov\u00e1 Eva",
@@ -9502,7 +9502,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "39",
                 "name": "Stokl\u00e1sek Michal",
@@ -9521,7 +9521,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "40",
                 "name": "Bryndzov\u00e1 Iveta",
@@ -9540,7 +9540,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "41",
                 "name": "Pavlov\u00e1 Eva Karol\u00edna",
@@ -9559,7 +9559,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "42",
                 "name": "David Jan Ing.",
@@ -9578,7 +9578,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "43",
                 "name": "Dudis Roman",
@@ -9597,7 +9597,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "44",
                 "name": "\u0160itavanc Pavel",
@@ -9616,7 +9616,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "45",
                 "name": "Schejbalov\u00e1 Martina",
@@ -9635,7 +9635,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "46",
                 "name": "Klikar Martin",
@@ -9654,7 +9654,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "47",
                 "name": "R\u00fddlov\u00e1 Ji\u0159\u00edkov\u00e1 Jitka",
@@ -9673,7 +9673,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "48",
                 "name": "Jan\u010dula Pavel",
@@ -9692,7 +9692,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "49",
                 "name": "Kalous Jan",
@@ -9711,7 +9711,7 @@
             }
         },
         {
-            "type": "feature",
+            "type": "Feature",
             "properties": {
                 "nr": "50",
                 "name": "Kova\u0159\u00edkov\u00e1 Ludmila",
